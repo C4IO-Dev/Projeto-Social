@@ -38,3 +38,11 @@ main{
     border-radius: 52px;
 }
 
+#tela{
+    position: relative;
+    top: 81px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+}
+
